@@ -29,11 +29,6 @@ You can install the required packages using pip:
 ```bash
 pip install bs4 requests
 ```
-For macOS users, use:
-
-```bash
-pip3 install bs4 requests
-```
 
 > **Note:** The `smtplib`, `email`, and `datetime` modules are part of Python’s standard library and do not require installation.
 
